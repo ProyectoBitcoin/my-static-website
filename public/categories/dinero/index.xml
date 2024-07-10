@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinero on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/dinero/</link>
+    <description>Recent content in Dinero on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/dinero/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Bitcoin es dinero?</title>
+      <link>//localhost:1313/intermediate/bitcoin-es-dinero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/bitcoin-es-dinero/</guid>
+      <description>El dinero es el medio de intercambio de valor casi desde el inicio de la sociedad. La polémica acerca de sí Bitcoin se ajusta a la definición, pasa por verificar si cumple?&amp;nbsp; los rasgos que le dan marco: divisibilidad, portabilidad, durabilidad, recognoscibilidad y escasez. Dentro de estas careactericticas, nunca se menciona el estar respaldado en oro o en instituciones.&#xA;Al principio, el dinero era un intercambio de valores en sí mismo, no las representaciones que usamos hoy día.</description>
+    </item>
+    <item>
+      <title>¿Qué es el dinero?</title>
+      <link>//localhost:1313/intermediate/que-es-el-dinero-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-dinero-2/</guid>
+      <description> Qué es el Dinero ¿Por qué es importante? Porque mientras mejor entiendas el dinero tal como lo conocemos, más sencillo será entender Bitcoin, la mejor tecnología monetaria jamás inventada.&#xA;https://youtu.be/JkBdvRon7_E Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué es el dinero?</title>
+      <link>//localhost:1313/intermediate/que-es-el-dinero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-dinero/</guid>
+      <description>Al escuchar la palabra &#34;Dinero&#34;, la mayoría de las personas piensa en los billetes y monedas que circulan en un país. Pero en realidad es un concepto más amplio. Todo aquel bien o activo, generalmente aceptado para pagar productos y servicios, se considera dinero.&#xA;Esto significa que la cualidad de dinero proviene del reconocimiento que le damos las personas. Todos estamos de acuerdo en que ese activo tiene valor y lo aceptamos en nuestras transacciones económicas.</description>
+    </item>
+    <item>
+      <title>¿Qué es el Libro blanco de Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin/</guid>
+      <description>El libro blanco de Bitcoin (o Whitepaper en inglés) es el documento donde se explica qué es lo que hace funcionar esta criptomoneda. El 1.º de noviembre de 2008, por el misterioso Satoshi Nakamoto envió el texto a la lista de correos, especializada en criptografía, donde pensó que podía ser de interés.&#xA;Básicamente, Nakamoto les cuenta a sus colegas que creó un sistema que permite a las personas enviar dinero por Internet de forma segura, sin que participe un banco o cualquier otro intermediario.</description>
+    </item>
+  </channel>
+</rss>

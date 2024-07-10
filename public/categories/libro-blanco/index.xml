@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libro Blanco on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/libro-blanco/</link>
+    <description>Recent content in Libro Blanco on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/libro-blanco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es el Libro Blanco de Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin-2/</guid>
+      <description> En este cuarto bocado de información te contamos, de forma simple y en 5 minutos, qué es el Libro Blanco (White Paper) de Bitcoin, el documento técnico que representa el nacimiento de la criptomoneda madre.&#xA;https://youtu.be/zLqoW0FzN4M Anterior Principal Siguiente </description>
+    </item>
+  </channel>
+</rss>

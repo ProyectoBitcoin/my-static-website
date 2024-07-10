@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exchanges on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/exchanges/</link>
+    <description>Recent content in Exchanges on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/exchanges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lo que debes saber sobre los exchanges de Bitcoin</title>
+      <link>//localhost:1313/intermediate/lo-que-debes-saber-sobre-los-exchanges-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/lo-que-debes-saber-sobre-los-exchanges-de-bitcoin/</guid>
+      <description> Usar por primera vez un exchange de Bitcoin y criptomonedas puede ser una experiencia aterradora. En este episodio hablamos de qué son los exchages de criptomonedas, cómo funcionan y las precauciones que debemos tener al usarlos. Nos acompañó el ingeniero venezolano Miguel Arroyo, un bitcoiner que ha estado probando plataformas de intercambio de criptomonedas desde hace 6 años.&#xA;https://youtu.be/3iKs037nkPg Anterior Principal Siguiente </description>
+    </item>
+  </channel>
+</rss>

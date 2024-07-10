@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Precio on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/precio/</link>
+    <description>Recent content in Precio on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/precio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué le da valor a Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-le-da-valor-a-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-le-da-valor-a-bitcoin/</guid>
+      <description>Comencemos por diferenciar precio de valor. El precio de Bitcoin es volátil; básicamente por su mercado reducido. A medida que haya mayor adopción, los factores externos lo afectarán menos.&#xA;Por ahora, el precio de la criptomoneda se comporta un poco como el precio de las acciones. Incluso se le aplican las mismas técnicas para predecir sus movimientos. Los corredores de bolsa y los asesores financieros aplican un sinnúmero de herramientas para, no solo predecir el precio de las acciones (o valores) en el mercado internacional, sino para prepararse para las crisis, buscar “valores refugio”, diversificar sus carteras y diminuir los riesgos de las inversiones bursátiles.</description>
+    </item>
+    <item>
+      <title>Precios y Bitcoin. Tips para atravesar un mercado bajista</title>
+      <link>//localhost:1313/intermediate/precios-y-bitcoin-tips-para-atravesar-un-mercado-bajista/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/precios-y-bitcoin-tips-para-atravesar-un-mercado-bajista/</guid>
+      <description> Últimamente, el precio de bitcoin ha sido noticia diaria. Cuando no salta un 10% en 24 h, se queda quieto varios días mientras todos esperan que se mueva. ¿Qué está pasando? ¿Qué tienen que ver las caídas de Terra, Celsius, Three Arrows Capital en los movimientos de mercado? José nos hace un recorrido por los básicos del precio de bitcoin y que podemos esperar en las próximas semanas.&#xA;https://youtu.be/GqvLl2rQG-s Anterior Principal Siguiente </description>
+    </item>
+  </channel>
+</rss>

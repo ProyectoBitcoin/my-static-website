@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitcoin Bite X Bite on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/bitcoin-bite-x-bite/</link>
+    <description>Recent content in Bitcoin Bite X Bite on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/bitcoin-bite-x-bite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es Bitcoin? Fácil y en 5 minutos</title>
+      <link>//localhost:1313/intermediate/que-es-bitcoin-facil-y-en-5-minutos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-bitcoin-facil-y-en-5-minutos/</guid>
+      <description> Inauguramos nuestro canal respondiendo a una de las preguntas más populares del momento, con palabras sencillas y fáciles de digerir. Este es apenas el primer bocado, una pequeña probadita. Poco a poco iremos aprendiendo más. Esperamos que les guste.&#xA;https://youtu.be/cHHFbCAbmic Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué es el dinero?</title>
+      <link>//localhost:1313/intermediate/que-es-el-dinero-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-dinero-2/</guid>
+      <description> Qué es el Dinero ¿Por qué es importante? Porque mientras mejor entiendas el dinero tal como lo conocemos, más sencillo será entender Bitcoin, la mejor tecnología monetaria jamás inventada.&#xA;https://youtu.be/JkBdvRon7_E Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué es el Libro Blanco de Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin-2/</guid>
+      <description> En este cuarto bocado de información te contamos, de forma simple y en 5 minutos, qué es el Libro Blanco (White Paper) de Bitcoin, el documento técnico que representa el nacimiento de la criptomoneda madre.&#xA;https://youtu.be/zLqoW0FzN4M Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué es una wallet o monedero de criptomonedas?</title>
+      <link>//localhost:1313/intermediate/que-es-una-wallet-o-monedero-de-criptomonedas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-una-wallet-o-monedero-de-criptomonedas/</guid>
+      <description> ¿Qué es ese programa o ese dispositivo que te permite interactuar con la blockchain de Bitcoin?&#xA;https://youtu.be/M6pZOwkB8Sk Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué son las criptomonedas?</title>
+      <link>//localhost:1313/intermediate/que-son-las-criptomonedas-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-son-las-criptomonedas-2/</guid>
+      <description> Segundo bocado de información sobre Bitcoin y las Criptomonedas. Esta vez, le explicamos a la tía Carmen qué son las criptomonedas. Poco a poco iremos aprendiendo más.&#xA;https://youtu.be/8GtGmygNz2E Anterior Principal Siguiente </description>
+    </item>
+  </channel>
+</rss>

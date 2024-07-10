@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercado on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/mercado/</link>
+    <description>Recent content in Mercado on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/mercado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Te puedes hacer rico con Bitcoin?</title>
+      <link>//localhost:1313/intermediate/te-puedes-hacer-rico-con-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/te-puedes-hacer-rico-con-bitcoin/</guid>
+      <description>Abundan las historias de gente que se hizo millonaria con Bitcoin, producto de haber entrado al entorno muy temprano. Esa fábula, de hacerse millonario de la noche a la mañana, es persistente. Y la puerta de entrada a cualquier cantidad de estafas y proyectos irreales.&#xA;Lo cierto es que algunos de los primeros participantes en Bitcoin pertenecían al pequeño nicho de entusiastas de la criptografía fuerte y activistas por la privacidad.</description>
+    </item>
+    <item>
+      <title>Precios y Bitcoin. Tips para atravesar un mercado bajista</title>
+      <link>//localhost:1313/intermediate/precios-y-bitcoin-tips-para-atravesar-un-mercado-bajista/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/precios-y-bitcoin-tips-para-atravesar-un-mercado-bajista/</guid>
+      <description> Últimamente, el precio de bitcoin ha sido noticia diaria. Cuando no salta un 10% en 24 h, se queda quieto varios días mientras todos esperan que se mueva. ¿Qué está pasando? ¿Qué tienen que ver las caídas de Terra, Celsius, Three Arrows Capital en los movimientos de mercado? José nos hace un recorrido por los básicos del precio de bitcoin y que podemos esperar en las próximas semanas.&#xA;https://youtu.be/GqvLl2rQG-s Anterior Principal Siguiente </description>
+    </item>
+  </channel>
+</rss>

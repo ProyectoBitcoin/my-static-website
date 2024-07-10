@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bloque Génesis on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/bloque-g%C3%A9nesis/</link>
+    <description>Recent content in Bloque Génesis on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/bloque-g%C3%A9nesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relatos de Bitcoin: Bloque Génesis, Bitcoin Pizza Day y más</title>
+      <link>//localhost:1313/intermediate/relatos-de-bitcoin-bloque-genesis-bitcoin-pizza-day-y-mas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/relatos-de-bitcoin-bloque-genesis-bitcoin-pizza-day-y-mas/</guid>
+      <description>Llegamos al episodio final de nuestra primera temporada y quisimos regalarles el relato de algunos de los acontecimientos que más nos gustan de la historia de Bitcoin. Les contamos sobre el bloque Génesis, la celebración del Bitcoin Pizza Day, el Día de la independencia Bitcoin, y la primera cadena de confianza basada en Lightning Network. Con estos acontecimientos, nos despedimos hasta el 18 de noviembre de 2022, cuando volvemos con energías renovadas.</description>
+    </item>
+  </channel>
+</rss>

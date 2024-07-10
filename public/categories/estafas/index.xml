@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estafas on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/estafas/</link>
+    <description>Recent content in Estafas on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/estafas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estafas más comunes en el mundo de Bitcoin</title>
+      <link>//localhost:1313/intermediate/estafas-mas-comunes-en-el-mundo-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/estafas-mas-comunes-en-el-mundo-de-bitcoin/</guid>
+      <description> Estafadores hay en todas partes, y vienen de todas formas y colores. El mundo de Bitcoin no es la excepción. Reconocer las estafas más comunes en este ecosistema es vital para no convertirte en víctima.&#xA;https://youtu.be/5XkEL4Tub5U Anterior Principal Siguiente </description>
+    </item>
+  </channel>
+</rss>

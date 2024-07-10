@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ABC De Bitcoin on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/abc-de-bitcoin/</link>
+    <description>Recent content in ABC De Bitcoin on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/abc-de-bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Bitcoin es dinero?</title>
+      <link>//localhost:1313/intermediate/bitcoin-es-dinero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/bitcoin-es-dinero/</guid>
+      <description>El dinero es el medio de intercambio de valor casi desde el inicio de la sociedad. La polémica acerca de sí Bitcoin se ajusta a la definición, pasa por verificar si cumple?&amp;nbsp; los rasgos que le dan marco: divisibilidad, portabilidad, durabilidad, recognoscibilidad y escasez. Dentro de estas careactericticas, nunca se menciona el estar respaldado en oro o en instituciones.&#xA;Al principio, el dinero era un intercambio de valores en sí mismo, no las representaciones que usamos hoy día.</description>
+    </item>
+    <item>
+      <title>¿Cómo empezar con Bitcoin?</title>
+      <link>//localhost:1313/intermediate/como-empezar-con-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-empezar-con-bitcoin/</guid>
+      <description>Si ya te interesaste en Bitcoin y comienzas a entender qué es y por qué deberías usarlo, es posible que ya tengas ganas de obtener tu primera pequeña fracción de esta criptomoneda. Bitcoin es fácil de comprar. También es muy sencillo volver a intercambiarlo por cualquier moneda fíat cuando lo necesites.&amp;nbsp;&#xA;Aunque es bueno que te intereses en comprender sus fundamentos técnicos y su filosofía, en realidad no es indispensable para comenzar a acumular tus primeros bitcoin y vivir la experiencia de uso.</description>
+    </item>
+    <item>
+      <title>¿Por qué no nos gustan los bancos?</title>
+      <link>//localhost:1313/intermediate/por-que-no-nos-gustan-los-bancos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/por-que-no-nos-gustan-los-bancos/</guid>
+      <description>En general, la opinión que tienen los bitcoiners de los bancos es bastante adversa. Estas instituciones representan todo lo que está mal en el sistema económico: favorecen los grandes capitales en detrimento del ahorrista pequeño, funcionan como una suerte de “policía” que recoge y comparte todos los datos personales de sus clientes, junto con sus movimientos financieros. Fueron los causantes de grandes crisis en todo el mundo, que llevaron a miles de personas a la quiebra, aunque ellos recibieron el rescate de los gobiernos.</description>
+    </item>
+    <item>
+      <title>¿Qué es Bitcoin?</title>
+      <link>//localhost:1313/basic/que-es-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/basic/que-es-bitcoin/</guid>
+      <description>Todo comenzó el 1º de noviembre de 2008, cuando un participante de una lista de correos de desarrolladores, activistas por unas comunicaciones más anónimas, envió un mensaje que decía:&amp;nbsp;&#xA;&#34;He estado trabajando en un nuevo sistema de efectivo electrónico que es totalmente entre pares, sin terceros de confianza&#34;&#xA;Esas palabras fueron escritas por Satoshi Nakamoto, y el título del mensaje era: “Bitcoin P2P e-cash paper”(Bitcoin, Propuesta de efectivo electrónicos entre pares).</description>
+    </item>
+    <item>
+      <title>¿Qué es el dinero?</title>
+      <link>//localhost:1313/intermediate/que-es-el-dinero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-dinero/</guid>
+      <description>Al escuchar la palabra &#34;Dinero&#34;, la mayoría de las personas piensa en los billetes y monedas que circulan en un país. Pero en realidad es un concepto más amplio. Todo aquel bien o activo, generalmente aceptado para pagar productos y servicios, se considera dinero.&#xA;Esto significa que la cualidad de dinero proviene del reconocimiento que le damos las personas. Todos estamos de acuerdo en que ese activo tiene valor y lo aceptamos en nuestras transacciones económicas.</description>
+    </item>
+    <item>
+      <title>¿Qué es el Libro blanco de Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin/</guid>
+      <description>El libro blanco de Bitcoin (o Whitepaper en inglés) es el documento donde se explica qué es lo que hace funcionar esta criptomoneda. El 1.º de noviembre de 2008, por el misterioso Satoshi Nakamoto envió el texto a la lista de correos, especializada en criptografía, donde pensó que podía ser de interés.&#xA;Básicamente, Nakamoto les cuenta a sus colegas que creó un sistema que permite a las personas enviar dinero por Internet de forma segura, sin que participe un banco o cualquier otro intermediario.</description>
+    </item>
+    <item>
+      <title>¿Qué es la minería de Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-la-mineria-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-la-mineria-de-bitcoin/</guid>
+      <description>En Bitcoin y otras criptomonedas similares, se le llama minería al proceso de verificar y registrar los pagos en su blockchain, ese gran libro contable digital donde se asientan todas sus operaciones. Este es un trabajo que cualquier persona puede realizar, a cambio de una recompensa, siempre y cuando disponga de las herramientas necesarias.&#xA;¿Por qué se llama minería de Bitcoin? En esencia, el sistema es muy similar a la minería de metales preciosos, donde los mineros invierten recursos propios como maquinaria pesada, explosivos, personal técnico, etcétera.</description>
+    </item>
+    <item>
+      <title>¿Qué es una wallet de bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-una-wallet-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-una-wallet-de-bitcoin/</guid>
+      <description>También se conoce como billetera, cartera o monedero, entre los hispanohablantes. Una wallet es una aplicación o software diseñado para ayudarte a manejar tus bitcoins (o cualquier otra criptomoneda). Básicamente, te permite enviar y recibir pagos, así como llevar el registro de las transacciones que realizas y de tu saldo disponible, tal como lo haría una aplicación de banco.&#xA;Cada wallet genera direcciones o llaves públicas que funcionan como un identificador en la&amp;nbsp; blockchain.</description>
+    </item>
+    <item>
+      <title>¿Qué le da valor a Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-le-da-valor-a-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-le-da-valor-a-bitcoin/</guid>
+      <description>Comencemos por diferenciar precio de valor. El precio de Bitcoin es volátil; básicamente por su mercado reducido. A medida que haya mayor adopción, los factores externos lo afectarán menos.&#xA;Por ahora, el precio de la criptomoneda se comporta un poco como el precio de las acciones. Incluso se le aplican las mismas técnicas para predecir sus movimientos. Los corredores de bolsa y los asesores financieros aplican un sinnúmero de herramientas para, no solo predecir el precio de las acciones (o valores) en el mercado internacional, sino para prepararse para las crisis, buscar “valores refugio”, diversificar sus carteras y diminuir los riesgos de las inversiones bursátiles.</description>
+    </item>
+    <item>
+      <title>¿Qué son las criptomonedas?</title>
+      <link>//localhost:1313/basic/que-son-las-criptomonedas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/basic/que-son-las-criptomonedas/</guid>
+      <description>Las criptomonedas son un tipo de dinero digital. Es decir, que no existen en el mundo físico, sino que viven en las computadoras y se mueven a través de Internet, como los correos electrónicos.&#xA;Están hechas de datos y funcionan mediante algoritmos matemáticos, igual que los programas de computadora. La diferencia es que las criptomonedas tiene un valor monetario, tal como los dólares, los euros u otra moneda de cualquier país.</description>
+    </item>
+    <item>
+      <title>¿Qué son las criptomonedas?</title>
+      <link>//localhost:1313/intermediate/que-son-las-criptomonedas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-son-las-criptomonedas/</guid>
+      <description>Las criptomonedas son un tipo de dinero digital. Es decir, que no existen en el mundo físico, sino que viven en las computadoras y se mueven a través de Internet, como los correos electrónicos.&#xA;Están hechas de datos y funcionan mediante algoritmos matemáticos, igual que los programas de computadora. La diferencia es que las criptomonedas tiene un valor monetario, tal como los dólares, los euros u otra moneda de cualquier país.</description>
+    </item>
+    <item>
+      <title>¿Te puedes hacer rico con Bitcoin?</title>
+      <link>//localhost:1313/intermediate/te-puedes-hacer-rico-con-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/te-puedes-hacer-rico-con-bitcoin/</guid>
+      <description>Abundan las historias de gente que se hizo millonaria con Bitcoin, producto de haber entrado al entorno muy temprano. Esa fábula, de hacerse millonario de la noche a la mañana, es persistente. Y la puerta de entrada a cualquier cantidad de estafas y proyectos irreales.&#xA;Lo cierto es que algunos de los primeros participantes en Bitcoin pertenecían al pequeño nicho de entusiastas de la criptografía fuerte y activistas por la privacidad.</description>
+    </item>
+    <item>
+      <title>Bitcoin es resistente a la censura y a tu gobierno no le gusta</title>
+      <link>//localhost:1313/intermediate/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</guid>
+      <description>La blockchain de Bitcoin tiene cinco características que la hacen fuerte: puede ser auditada por cualquiera; no conoce las fronteras; es distribuida (no tiene puntos centrales que puedan ser atacados); es neutral, lo que significa que todos los participantes son iguales, no discrimina y es resistente a la censura.&#xA;Un dinero que no puede ser censurado es un dinero libre, que no admite reguladores que pongan coto a su alcance.</description>
+    </item>
+  </channel>
+</rss>

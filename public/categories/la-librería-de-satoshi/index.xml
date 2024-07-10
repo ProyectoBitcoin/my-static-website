@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La Librería De Satoshi on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/la-librer%C3%ADa-de-satoshi/</link>
+    <description>Recent content in La Librería De Satoshi on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/la-librer%C3%ADa-de-satoshi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En esta comunidad aprendes Bitcoin en español. La Librería Satoshi.</title>
+      <link>//localhost:1313/intermediate/en-esta-comunidad-aprendes-bitcoin-en-espanol-la-libreria-satoshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/en-esta-comunidad-aprendes-bitcoin-en-espanol-la-libreria-satoshi/</guid>
+      <description>&#34;Somos Bitcoiners que creemos que Bitcoin es un derecho y que debe ser accesible para todos en nuestro propio idioma&#34;. Estas palabras dan la bienvenida al visitante del sitio web de la Librería de Satoshi, una iniciativa que busca facilitar el aprendizaje de Bitcoin en español. En este episodio de Bitcoin desde Cero Podcast, conversamos con Dulce Villarreal, BlueMoon y Laura Luis, tres mujeres líderes de esta comunidad, quienes nos contaron todo sobre este proyecto.</description>
+    </item>
+  </channel>
+</rss>

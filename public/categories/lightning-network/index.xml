@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightning Network on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/lightning-network/</link>
+    <description>Recent content in Lightning Network on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/lightning-network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Cómo funciona Lightning Network?</title>
+      <link>//localhost:1313/intermediate/como-funciona-lightning-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-funciona-lightning-network/</guid>
+      <description> Los pagos con bitcoin son más veloces, baratos y escalables, gracias al protocolo Lightning Network. Es la solución que permite a Bitcoin convertirse en verdadero dinero de Internet. En este episodio explicamos, de forma sencilla, cuál es la magia detrás de esta red descentralizada que corre sobre Bitcoin.&#xA;https://youtu.be/CbnWQd0Dyog Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot</title>
+      <link>//localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</guid>
+      <description> Te presentamos al Roboto LNp2pBot. Te enseñamos como usarlo para comprar y vender satoshis con Lightning Network, fácil, rápido y sin entregar tu privacidad.&#xA;https://youtu.be/i9IzqZrRUMQ Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Intercambios de bitcoin fáciles, seguros e instantáneos con Lightning Network</title>
+      <link>//localhost:1313/intermediate/intercambios-de-bitcoin-faciles-seguros-e-instantaneos-con-lightning-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/intercambios-de-bitcoin-faciles-seguros-e-instantaneos-con-lightning-network/</guid>
+      <description> Qué es Lightning Network, cómo funciona y en especial cómo nos facilita los pagos cotidianos con Bitcoin, fueron algunos de los temas que conversamos Francisco Calderón @negrunch desarrollador de Bitcoin. También nos comentó sobre el crecimiento de su bot de Telegram para intercambios en la red Lightning, un proyecto en el que viene trabajando, en su empeño por llevar el uso de Bitcoin a la vida real.&#xA;https://youtu.be/TG_jn_at7TA Anterior Principal Siguiente </description>
+    </item>
+  </channel>
+</rss>

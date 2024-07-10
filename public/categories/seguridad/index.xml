@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seguridad on Proyecto Bitcoin</title>
+    <link>//localhost:1313/categories/seguridad/</link>
+    <description>Recent content in Seguridad on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/categories/seguridad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 tips para usar Bitcoin con seguridad</title>
+      <link>//localhost:1313/intermediate/tips-para-usar-bitcoin-con-seguridad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/tips-para-usar-bitcoin-con-seguridad/</guid>
+      <description> Cuatro sencillos pasos que forman parte de las mejores prácticas de seguridad al usar Bitcoin. Proteger tu dinero tiene que ver más con el sentido común, que con tu conocimiento de tecnología&#xA;https://youtu.be/WjsWCTXkZds Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Cómo usar Bitcoin con seguridad</title>
+      <link>//localhost:1313/intermediate/como-usar-bitcoin-con-seguridad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-usar-bitcoin-con-seguridad/</guid>
+      <description> Bitcoin nos da el poder de decidir qué hacer con nuestro dinero, pero ese poder conlleva una gran responsabilidad. En el episodio final de esta serie, con el bitcoiner experto Miguel Arroyo, hablamos sobre cómo manejar Bitcoin con seguridad. La mayoría de estos consejos prácticos aplican desde el día uno.&#xA;https://youtu.be/3QX2ICxhU-0 Anterior Principal Siguiente </description>
+    </item>
+  </channel>
+</rss>

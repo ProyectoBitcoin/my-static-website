@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intermediates on Proyecto Bitcoin</title>
+    <link>//localhost:1313/intermediate/</link>
+    <description>Recent content in Intermediates on Proyecto Bitcoin</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/intermediate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Bitcoin es dinero?</title>
+      <link>//localhost:1313/intermediate/bitcoin-es-dinero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/bitcoin-es-dinero/</guid>
+      <description>El dinero es el medio de intercambio de valor casi desde el inicio de la sociedad. La polémica acerca de sí Bitcoin se ajusta a la definición, pasa por verificar si cumple?&amp;nbsp; los rasgos que le dan marco: divisibilidad, portabilidad, durabilidad, recognoscibilidad y escasez. Dentro de estas careactericticas, nunca se menciona el estar respaldado en oro o en instituciones.&#xA;Al principio, el dinero era un intercambio de valores en sí mismo, no las representaciones que usamos hoy día.</description>
+    </item>
+    <item>
+      <title>¿Bitcoin es legal?</title>
+      <link>//localhost:1313/intermediate/bitcoin-es-legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/bitcoin-es-legal/</guid>
+      <description> Todavía hay personas que se preguntan si Bitcoin es legal. Muchos gobiernos han propuesto regulaciones, pero lo cierto es que ninguna ley puede evitar que Bitcoin siga funcionando.&#xA;https://youtu.be/pSiSzPSbk6M Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Cómo empezar con Bitcoin?</title>
+      <link>//localhost:1313/intermediate/como-empezar-con-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-empezar-con-bitcoin/</guid>
+      <description>Si ya te interesaste en Bitcoin y comienzas a entender qué es y por qué deberías usarlo, es posible que ya tengas ganas de obtener tu primera pequeña fracción de esta criptomoneda. Bitcoin es fácil de comprar. También es muy sencillo volver a intercambiarlo por cualquier moneda fíat cuando lo necesites.&amp;nbsp;&#xA;Aunque es bueno que te intereses en comprender sus fundamentos técnicos y su filosofía, en realidad no es indispensable para comenzar a acumular tus primeros bitcoin y vivir la experiencia de uso.</description>
+    </item>
+    <item>
+      <title>¿Cómo funciona Lightning Network?</title>
+      <link>//localhost:1313/intermediate/como-funciona-lightning-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-funciona-lightning-network/</guid>
+      <description> Los pagos con bitcoin son más veloces, baratos y escalables, gracias al protocolo Lightning Network. Es la solución que permite a Bitcoin convertirse en verdadero dinero de Internet. En este episodio explicamos, de forma sencilla, cuál es la magia detrás de esta red descentralizada que corre sobre Bitcoin.&#xA;https://youtu.be/CbnWQd0Dyog Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Cómo invertir en bitcoin con bajo riesgo?</title>
+      <link>//localhost:1313/intermediate/como-invertir-en-bitcoin-con-bajo-riesgo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-invertir-en-bitcoin-con-bajo-riesgo/</guid>
+      <description>En este episodio exploramos las posibilidades más populares para invertir en bitcoin sin contar con grandes capitales. Nos acompañó el periodista y bitcoiner Juan Ibarra, quien nos contó su experiencia con inversiones a partir de $3 dólares. Recuerda que este podcast es educativo e informativo. No somos asesoras de inversión. Así que, aunque coincidas con nuestras opiniones y las de nuestros invitados, debes hacer tu propia investigación e invertir solo dinero que estés dispuesto a perder.</description>
+    </item>
+    <item>
+      <title>¿Cómo operan las estafas de bitcoin y criptomonedas?</title>
+      <link>//localhost:1313/intermediate/como-operan-las-estafas-de-bitcoin-y-criptomonedas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-operan-las-estafas-de-bitcoin-y-criptomonedas/</guid>
+      <description>El entorno de las criptomonedas en general está plagado de estafadores intentando captar incautos con métodos que, a estas alturas, se pueden reconocer y evadir. En esta conversación con Kevin Hernandez (a.k.a. KevinNegocios) organizador de la Criptodemia, experto en marketing, emprendedor y una de las caras visibles de la campaña #SacamNoEsNegocio exponemos las señales de alerta, las cuatro preguntas que hay que hacer antes de invertir y cómo navegar en estas aguas peligrosas sin correr (demasiados) riesgos.</description>
+    </item>
+    <item>
+      <title>¿Cuál es el estado de la adopción de Bitcoin en Latinoamérica?</title>
+      <link>//localhost:1313/intermediate/cual-es-el-estado-de-la-adopcion-de-bitcoin-en-latinoamerica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/cual-es-el-estado-de-la-adopcion-de-bitcoin-en-latinoamerica/</guid>
+      <description>Mucho se habla del potencial de los países latinoamericanos como espacio para una eventual adopción masiva de Bitcoin. Esta narrativa se sustenta en el su crecimiento en mercados como el venezolano, argentino, colombiano y, más recientemente, el salvadoreño. Pero ¿cuál es el estatus real del uso de bitcoin en Latinoamérica? ¿Existe una verdadera “criptonación” en la región? Le preguntamos a Javier Bastardo, un bitcoiner venezolano que se ha convertido en referencia en el ecosistema de la región, y que ha tenido oportunidad de indagar realidades de diferentes países, directamente.</description>
+    </item>
+    <item>
+      <title>¿Por qué Bitcoin importa para los Derechos Humanos?</title>
+      <link>//localhost:1313/intermediate/bitcoin_derechos_humanos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/bitcoin_derechos_humanos/</guid>
+      <description> Bitcoin es dinero libre, sin fronteras y accesible para todos. Nació en el seno de un grupo de luchadores por el derecho a la privacidad. Una tecnología como Bitcoin implica mucho más de lo que se ve a simple vista.&#xA;https://youtu.be/PTly3z-lEDs Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Por qué desapareció Satoshi Nakamoto?</title>
+      <link>//localhost:1313/intermediate/por-que-desaparecio-satoshi-nakamoto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/por-que-desaparecio-satoshi-nakamoto/</guid>
+      <description> La primera genialidad de Satoshi Nakamoto fue crear Bitcoin; la segunda, desaparecer. Todos somos Satoshi.&#xA;https://youtu.be/kqYhxzhbal8 Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Por qué no nos gustan los bancos?</title>
+      <link>//localhost:1313/intermediate/por-que-no-nos-gustan-los-bancos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/por-que-no-nos-gustan-los-bancos/</guid>
+      <description>En general, la opinión que tienen los bitcoiners de los bancos es bastante adversa. Estas instituciones representan todo lo que está mal en el sistema económico: favorecen los grandes capitales en detrimento del ahorrista pequeño, funcionan como una suerte de “policía” que recoge y comparte todos los datos personales de sus clientes, junto con sus movimientos financieros. Fueron los causantes de grandes crisis en todo el mundo, que llevaron a miles de personas a la quiebra, aunque ellos recibieron el rescate de los gobiernos.</description>
+    </item>
+    <item>
+      <title>¿Qué es Bitcoin? Fácil y en 5 minutos</title>
+      <link>//localhost:1313/intermediate/que-es-bitcoin-facil-y-en-5-minutos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-bitcoin-facil-y-en-5-minutos/</guid>
+      <description> Inauguramos nuestro canal respondiendo a una de las preguntas más populares del momento, con palabras sencillas y fáciles de digerir. Este es apenas el primer bocado, una pequeña probadita. Poco a poco iremos aprendiendo más. Esperamos que les guste.&#xA;https://youtu.be/cHHFbCAbmic Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué es blockchain?</title>
+      <link>//localhost:1313/intermediate/que-es-blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-blockchain/</guid>
+      <description> La blockchain es solo una parte de Bitcoin. Aunque en una época fue sobreestimada, es una pieza tecnológica clave del dinero de Internet. En este episodio te explicamos qué es blockchain en 3 minutos.&#xA;https://youtu.be/7_L9flfZxPk Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué es el dinero?</title>
+      <link>//localhost:1313/intermediate/que-es-el-dinero-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-dinero-2/</guid>
+      <description> Qué es el Dinero ¿Por qué es importante? Porque mientras mejor entiendas el dinero tal como lo conocemos, más sencillo será entender Bitcoin, la mejor tecnología monetaria jamás inventada.&#xA;https://youtu.be/JkBdvRon7_E Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué es el dinero?</title>
+      <link>//localhost:1313/intermediate/que-es-el-dinero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-dinero/</guid>
+      <description>Al escuchar la palabra &#34;Dinero&#34;, la mayoría de las personas piensa en los billetes y monedas que circulan en un país. Pero en realidad es un concepto más amplio. Todo aquel bien o activo, generalmente aceptado para pagar productos y servicios, se considera dinero.&#xA;Esto significa que la cualidad de dinero proviene del reconocimiento que le damos las personas. Todos estamos de acuerdo en que ese activo tiene valor y lo aceptamos en nuestras transacciones económicas.</description>
+    </item>
+    <item>
+      <title>¿Qué es el Libro blanco de Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin/</guid>
+      <description>El libro blanco de Bitcoin (o Whitepaper en inglés) es el documento donde se explica qué es lo que hace funcionar esta criptomoneda. El 1.º de noviembre de 2008, por el misterioso Satoshi Nakamoto envió el texto a la lista de correos, especializada en criptografía, donde pensó que podía ser de interés.&#xA;Básicamente, Nakamoto les cuenta a sus colegas que creó un sistema que permite a las personas enviar dinero por Internet de forma segura, sin que participe un banco o cualquier otro intermediario.</description>
+    </item>
+    <item>
+      <title>¿Qué es el Libro Blanco de Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-el-libro-blanco-de-bitcoin-2/</guid>
+      <description> En este cuarto bocado de información te contamos, de forma simple y en 5 minutos, qué es el Libro Blanco (White Paper) de Bitcoin, el documento técnico que representa el nacimiento de la criptomoneda madre.&#xA;https://youtu.be/zLqoW0FzN4M Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué es la minería de Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-la-mineria-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-la-mineria-de-bitcoin/</guid>
+      <description>En Bitcoin y otras criptomonedas similares, se le llama minería al proceso de verificar y registrar los pagos en su blockchain, ese gran libro contable digital donde se asientan todas sus operaciones. Este es un trabajo que cualquier persona puede realizar, a cambio de una recompensa, siempre y cuando disponga de las herramientas necesarias.&#xA;¿Por qué se llama minería de Bitcoin? En esencia, el sistema es muy similar a la minería de metales preciosos, donde los mineros invierten recursos propios como maquinaria pesada, explosivos, personal técnico, etcétera.</description>
+    </item>
+    <item>
+      <title>¿Qué es una wallet de bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-es-una-wallet-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-una-wallet-de-bitcoin/</guid>
+      <description>También se conoce como billetera, cartera o monedero, entre los hispanohablantes. Una wallet es una aplicación o software diseñado para ayudarte a manejar tus bitcoins (o cualquier otra criptomoneda). Básicamente, te permite enviar y recibir pagos, así como llevar el registro de las transacciones que realizas y de tu saldo disponible, tal como lo haría una aplicación de banco.&#xA;Cada wallet genera direcciones o llaves públicas que funcionan como un identificador en la&amp;nbsp; blockchain.</description>
+    </item>
+    <item>
+      <title>¿Qué es una wallet o monedero de criptomonedas?</title>
+      <link>//localhost:1313/intermediate/que-es-una-wallet-o-monedero-de-criptomonedas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-es-una-wallet-o-monedero-de-criptomonedas/</guid>
+      <description> ¿Qué es ese programa o ese dispositivo que te permite interactuar con la blockchain de Bitcoin?&#xA;https://youtu.be/M6pZOwkB8Sk Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué le da valor a Bitcoin?</title>
+      <link>//localhost:1313/intermediate/que-le-da-valor-a-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-le-da-valor-a-bitcoin/</guid>
+      <description>Comencemos por diferenciar precio de valor. El precio de Bitcoin es volátil; básicamente por su mercado reducido. A medida que haya mayor adopción, los factores externos lo afectarán menos.&#xA;Por ahora, el precio de la criptomoneda se comporta un poco como el precio de las acciones. Incluso se le aplican las mismas técnicas para predecir sus movimientos. Los corredores de bolsa y los asesores financieros aplican un sinnúmero de herramientas para, no solo predecir el precio de las acciones (o valores) en el mercado internacional, sino para prepararse para las crisis, buscar “valores refugio”, diversificar sus carteras y diminuir los riesgos de las inversiones bursátiles.</description>
+    </item>
+    <item>
+      <title>¿Qué son las criptomonedas?</title>
+      <link>//localhost:1313/intermediate/que-son-las-criptomonedas-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-son-las-criptomonedas-2/</guid>
+      <description> Segundo bocado de información sobre Bitcoin y las Criptomonedas. Esta vez, le explicamos a la tía Carmen qué son las criptomonedas. Poco a poco iremos aprendiendo más.&#xA;https://youtu.be/8GtGmygNz2E Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Qué son las criptomonedas?</title>
+      <link>//localhost:1313/intermediate/que-son-las-criptomonedas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/que-son-las-criptomonedas/</guid>
+      <description>Las criptomonedas son un tipo de dinero digital. Es decir, que no existen en el mundo físico, sino que viven en las computadoras y se mueven a través de Internet, como los correos electrónicos.&#xA;Están hechas de datos y funcionan mediante algoritmos matemáticos, igual que los programas de computadora. La diferencia es que las criptomonedas tiene un valor monetario, tal como los dólares, los euros u otra moneda de cualquier país.</description>
+    </item>
+    <item>
+      <title>¿Quién controla Bitcoin?</title>
+      <link>//localhost:1313/intermediate/quien-controla-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/quien-controla-bitcoin/</guid>
+      <description> La naturaleza del desarrollo de Bitcoin comulga con las ideas de la cultura del software libre y de código abierto. Esto garantiza que sus actualizaciones lleguen de forma lenta, pero con el máximo consenso. Cuáles son esas ideas, quiénes son los desarrolladores de Bitcoin, qué es Bitcoin Core y quién toma las decisiones, son algunas de las preguntas que nos hicimos en este episodio.&#xA;https://youtu.be/JmjUNZp-21s Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>¿Te puedes hacer rico con Bitcoin?</title>
+      <link>//localhost:1313/intermediate/te-puedes-hacer-rico-con-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/te-puedes-hacer-rico-con-bitcoin/</guid>
+      <description>Abundan las historias de gente que se hizo millonaria con Bitcoin, producto de haber entrado al entorno muy temprano. Esa fábula, de hacerse millonario de la noche a la mañana, es persistente. Y la puerta de entrada a cualquier cantidad de estafas y proyectos irreales.&#xA;Lo cierto es que algunos de los primeros participantes en Bitcoin pertenecían al pequeño nicho de entusiastas de la criptografía fuerte y activistas por la privacidad.</description>
+    </item>
+    <item>
+      <title>3 claves para entender Bitcoin</title>
+      <link>//localhost:1313/intermediate/claves_entender_bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/claves_entender_bitcoin/</guid>
+      <description> Aunque se trata de una tecnología compleja, resuelve una antigua búsqueda: dinero libre, sin fronteras y accesible para todos&#xA;https://youtu.be/FzHG044UsCM Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>4 herramientas para usar Bitcoin más fácil</title>
+      <link>//localhost:1313/intermediate/herramientas-para-usar-bitcoin-mas-facil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/herramientas-para-usar-bitcoin-mas-facil/</guid>
+      <description> Bitcoin suele ser un desafío para los novatos. Aunque su dificultad tiene que ver con que usarlo requiere ocuparse de temas que siempre hemos delegado a terceros. Pero esta dificultad de entrada no durará para siempre, pues cada vez se crean más herramientas que nos facilitan su uso.&#xA;https://youtu.be/fWFe15N0Gfc Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>4 tips para usar Bitcoin con seguridad</title>
+      <link>//localhost:1313/intermediate/tips-para-usar-bitcoin-con-seguridad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/tips-para-usar-bitcoin-con-seguridad/</guid>
+      <description> Cuatro sencillos pasos que forman parte de las mejores prácticas de seguridad al usar Bitcoin. Proteger tu dinero tiene que ver más con el sentido común, que con tu conocimiento de tecnología&#xA;https://youtu.be/WjsWCTXkZds Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>5 tips para mover tu bitcoin con comisiones de red bajas</title>
+      <link>//localhost:1313/intermediate/tips-para-mover-tu-bitcoin-con-comisiones-de-red-bajas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/tips-para-mover-tu-bitcoin-con-comisiones-de-red-bajas/</guid>
+      <description> Cuando la red de Bitcoin recibe un gran flujo de transacciones, las comisiones de red pueden subir bastante. Ahórrate unos satoshis siguiendo estas recomendaciones sencillas, para optimizar el pago de las fees en tus transacciones.&#xA;https://youtu.be/vesga-IfukU Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Así calcula las comisiones @lnp2pbot, el bot para comprar Bitcoin sin KYC</title>
+      <link>//localhost:1313/intermediate/asi-calcula-las-comisiones-lnp2pbot-el-bot-para-comprar-bitcoin-sin-kyc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/asi-calcula-las-comisiones-lnp2pbot-el-bot-para-comprar-bitcoin-sin-kyc/</guid>
+      <description> La aplicación para comprar bitcoin sin KYC, @lnp2pBot, también permite crear comunidades de usuarios. En esta oportunidad te contamos cómo funcionan los fees en las comunidades del bot.&#xA;https://youtu.be/NNDzN0Azzfc Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Bitcoin en Breve</title>
+      <link>//localhost:1313/intermediate/bitcoin-en-breve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/bitcoin-en-breve/</guid>
+      <description>Aprender sobre Bitcoin es fácil, si se hace poco a poco. Una serie de videos de menos de 5 minutos.&#xA;¿Por qué Bitcoin importa para los Derechos Humanos? 3 claves para entender Bitcoin 4 herramientas para usar Bitcoin más fácil 4 tips para usar Bitcoin con seguridad ¿Por qué desapareció Satoshi Nakamoto? Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot Estafas más comunes en el mundo de Bitcoin ¿Cómo funciona Lightning Network?</description>
+    </item>
+    <item>
+      <title>Bitcoin es resistente a la censura y a tu gobierno no le gusta</title>
+      <link>//localhost:1313/intermediate/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta/</guid>
+      <description>La blockchain de Bitcoin tiene cinco características que la hacen fuerte: puede ser auditada por cualquiera; no conoce las fronteras; es distribuida (no tiene puntos centrales que puedan ser atacados); es neutral, lo que significa que todos los participantes son iguales, no discrimina y es resistente a la censura.&#xA;Un dinero que no puede ser censurado es un dinero libre, que no admite reguladores que pongan coto a su alcance.</description>
+    </item>
+    <item>
+      <title>Cómo comprar bitcoin sin entregar tus datos personales con LNp2pBot</title>
+      <link>//localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-comprar-bitcoin-sin-entregar-tus-datos-personales-con-lnp2pbot/</guid>
+      <description> Te presentamos al Roboto LNp2pBot. Te enseñamos como usarlo para comprar y vender satoshis con Lightning Network, fácil, rápido y sin entregar tu privacidad.&#xA;https://youtu.be/i9IzqZrRUMQ Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Cómo usar Bitcoin con seguridad</title>
+      <link>//localhost:1313/intermediate/como-usar-bitcoin-con-seguridad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/como-usar-bitcoin-con-seguridad/</guid>
+      <description> Bitcoin nos da el poder de decidir qué hacer con nuestro dinero, pero ese poder conlleva una gran responsabilidad. En el episodio final de esta serie, con el bitcoiner experto Miguel Arroyo, hablamos sobre cómo manejar Bitcoin con seguridad. La mayoría de estos consejos prácticos aplican desde el día uno.&#xA;https://youtu.be/3QX2ICxhU-0 Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>En esta comunidad aprendes Bitcoin en español. La Librería Satoshi.</title>
+      <link>//localhost:1313/intermediate/en-esta-comunidad-aprendes-bitcoin-en-espanol-la-libreria-satoshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/en-esta-comunidad-aprendes-bitcoin-en-espanol-la-libreria-satoshi/</guid>
+      <description>&#34;Somos Bitcoiners que creemos que Bitcoin es un derecho y que debe ser accesible para todos en nuestro propio idioma&#34;. Estas palabras dan la bienvenida al visitante del sitio web de la Librería de Satoshi, una iniciativa que busca facilitar el aprendizaje de Bitcoin en español. En este episodio de Bitcoin desde Cero Podcast, conversamos con Dulce Villarreal, BlueMoon y Laura Luis, tres mujeres líderes de esta comunidad, quienes nos contaron todo sobre este proyecto.</description>
+    </item>
+    <item>
+      <title>Estafas más comunes en el mundo de Bitcoin</title>
+      <link>//localhost:1313/intermediate/estafas-mas-comunes-en-el-mundo-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/estafas-mas-comunes-en-el-mundo-de-bitcoin/</guid>
+      <description> Estafadores hay en todas partes, y vienen de todas formas y colores. El mundo de Bitcoin no es la excepción. Reconocer las estafas más comunes en este ecosistema es vital para no convertirte en víctima.&#xA;https://youtu.be/5XkEL4Tub5U Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Intercambios de bitcoin fáciles, seguros e instantáneos con Lightning Network</title>
+      <link>//localhost:1313/intermediate/intercambios-de-bitcoin-faciles-seguros-e-instantaneos-con-lightning-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/intercambios-de-bitcoin-faciles-seguros-e-instantaneos-con-lightning-network/</guid>
+      <description> Qué es Lightning Network, cómo funciona y en especial cómo nos facilita los pagos cotidianos con Bitcoin, fueron algunos de los temas que conversamos Francisco Calderón @negrunch desarrollador de Bitcoin. También nos comentó sobre el crecimiento de su bot de Telegram para intercambios en la red Lightning, un proyecto en el que viene trabajando, en su empeño por llevar el uso de Bitcoin a la vida real.&#xA;https://youtu.be/TG_jn_at7TA Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Lo que debes saber sobre los exchanges de Bitcoin</title>
+      <link>//localhost:1313/intermediate/lo-que-debes-saber-sobre-los-exchanges-de-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/lo-que-debes-saber-sobre-los-exchanges-de-bitcoin/</guid>
+      <description> Usar por primera vez un exchange de Bitcoin y criptomonedas puede ser una experiencia aterradora. En este episodio hablamos de qué son los exchages de criptomonedas, cómo funcionan y las precauciones que debemos tener al usarlos. Nos acompañó el ingeniero venezolano Miguel Arroyo, un bitcoiner que ha estado probando plataformas de intercambio de criptomonedas desde hace 6 años.&#xA;https://youtu.be/3iKs037nkPg Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Mejores herramientas para usar Bitcoin</title>
+      <link>//localhost:1313/intermediate/mejores-herramientas-para-usar-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/mejores-herramientas-para-usar-bitcoin/</guid>
+      <description> En este episodio revisamos las herramientas más prácticas novatos y expertos de Bitcoin usan en el día a día. Nos acompañó nuevamente el ingeniero venezolano Miguel Arroyo, quien se ha especializado en crear tutoriales de muchas de estas utilidades para el uso de bitcoin.&#xA;https://youtu.be/EltclWFCDtk Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Minería de Bitcoin. Lo más básico.</title>
+      <link>//localhost:1313/intermediate/mineria-de-bitcoin-lo-mas-basico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/mineria-de-bitcoin-lo-mas-basico/</guid>
+      <description> ¿Qué es la minería de Bitcoin? Intentamos responder esta pregunta sin usar la jerga que hace las respuestas incomprensibles, y sin meternos con las matemáticas. Pero por acá les dejamos un montón de recursos sencillos y excelente calidad para profundizar en el tema si lo deseas.&#xA;https://youtu.be/-KpJAsJ_zaY Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Play To Earn, NFT y Metaversos ¿qué son y qué viene para estas tecnologías?</title>
+      <link>//localhost:1313/intermediate/play-to-earn-nft-y-metaversos-que-son-y-que-viene-para-estas-tecnologias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/play-to-earn-nft-y-metaversos-que-son-y-que-viene-para-estas-tecnologias/</guid>
+      <description> Entre los muchos términos que se han popularizado en el ecosistema de Bitcoin y criptomonedas, los NFT (tokens no fungibles), los juegos Play To Earn (jugar para ganar) y los Metaversos, alcanzaron una popularidad insospechada. Con nuestra invitada, la periodista Marianella Vanci, explicamos de qué van y cuál es el futuro de estas tecnologías.&#xA;https://youtu.be/7OByf9baFOY Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Precios y Bitcoin. Tips para atravesar un mercado bajista</title>
+      <link>//localhost:1313/intermediate/precios-y-bitcoin-tips-para-atravesar-un-mercado-bajista/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/precios-y-bitcoin-tips-para-atravesar-un-mercado-bajista/</guid>
+      <description> Últimamente, el precio de bitcoin ha sido noticia diaria. Cuando no salta un 10% en 24 h, se queda quieto varios días mientras todos esperan que se mueva. ¿Qué está pasando? ¿Qué tienen que ver las caídas de Terra, Celsius, Three Arrows Capital en los movimientos de mercado? José nos hace un recorrido por los básicos del precio de bitcoin y que podemos esperar en las próximas semanas.&#xA;https://youtu.be/GqvLl2rQG-s Anterior Principal Siguiente </description>
+    </item>
+    <item>
+      <title>Relatos de Bitcoin: Bloque Génesis, Bitcoin Pizza Day y más</title>
+      <link>//localhost:1313/intermediate/relatos-de-bitcoin-bloque-genesis-bitcoin-pizza-day-y-mas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/intermediate/relatos-de-bitcoin-bloque-genesis-bitcoin-pizza-day-y-mas/</guid>
+      <description>Llegamos al episodio final de nuestra primera temporada y quisimos regalarles el relato de algunos de los acontecimientos que más nos gustan de la historia de Bitcoin. Les contamos sobre el bloque Génesis, la celebración del Bitcoin Pizza Day, el Día de la independencia Bitcoin, y la primera cadena de confianza basada en Lightning Network. Con estos acontecimientos, nos despedimos hasta el 18 de noviembre de 2022, cuando volvemos con energías renovadas.</description>
+    </item>
+  </channel>
+</rss>
