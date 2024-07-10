@@ -87,8 +87,8 @@ params:
       url: /
   - title: Quiénes somos
     url: /quienes-somos/
-  - title: Acceder
-    url: /
+# - title: Acceder
+#   url: /
   - title: Registro
     url: /
     button: true
