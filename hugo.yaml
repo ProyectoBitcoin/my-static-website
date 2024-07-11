@@ -90,81 +90,81 @@ params:
 # - title: Acceder
 #   url: /
   - title: Registro
-    url: /
+    url: https://forms.gle/X4Df1DyoqNaEGpdr8
     button: true
-  sidebar:
+#  sidebar:
     # Logo (from static/images/logos/___.svg)
-    logo: fresh-square
-    sections:
-    - title: User
-      icon: user
-      links:
-      - text: Profile
-        url: /
-      - text: Account
-        url: /
-      - text: Settings
-        url: /
-    - title: Messages
-      icon: envelope
-      links:
-      - text: Inbox
-        url: /
-      - text: Compose
-        url: /
-    - title: Images
-      icon: image
-      links:
-      - text: Library
-        url: /
-      - text: Upload
-        url: /
-    - title: Settings
-      icon: cog
-      links:
-      - text: User settings
-        url: /
-      - text: App settings
-        url: /
-  section1:
-    title: Great power comes
-    subtitle: with great responsibility
-    tiles:
-    - title: App builder
-      icon: mouse-globe
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Free trial
-    - title: Cloud integration
-      icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
-    - title: Add-ons & plugins
-      icon: plug-cloud
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
+    #logo: fresh-square
+    #sections:
+    #- title: User
+      #icon: user
+      #links:
+      #- text: Profile
+        #url: /
+      #- text: Account
+        #url: /
+      #- text: Settings
+        #url: /
+    #- title: Messages
+      #icon: envelope
+      #links:
+      #- text: Inbox
+        #url: /
+      #- text: Compose
+        #url: /
+    #- title: Images
+      #icon: image
+      #links:
+      #- text: Library
+        #url: /
+      #- text: Upload
+        #url: /
+    #- title: Settings
+      #icon: cog
+      #links:
+      #- text: User settings
+        #url: /
+      #- text: App settings
+        #url: /
+  #section1:
+    #title: Aprendizaje sin límites
+    #subtitle: Accede los cursos online más sencillos y completos en idioma español.
+    #tiles:
+    #- title: Bitcoin sin KYC
+      #icon: mouse-globe
+      #text: Los mejores métodos p2p para comprar y vender bitcoin
+      #url: /
+      #buttonText: Comprar $0.00
+    #- title: Mi primer nodo
+      #icon: laptop-cloud
+      #text: Instala y configura tu propio nodo de Bitcoin
+      #url: /
+      #buttonText: Comprar $0.00
+    #- title: Exploradores de bloques 
+      #icon: plug-cloud
+      #text: Aprende a encontrar datos en la blockchain de Bitcoin
+      #url: /
+      #buttonText: Comprar $0.00
   section2:
-    title: You're here because you want the best
-    subtitle: And we know it
+    title: Estás aquí porque quieres aprender bitcoin
+    subtitle: Escucha nuestros podcast
     features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: El Bit
+      text: Resumen semanal de noticias de 5 minutos. Mantente al día y enterate de las noticias más relevantes de la industria bitcoiner. Narradas de forma amena, breve y concisa
       # Icon (from static/images/illustrations/icons/___.svg)
-      icon: laptop-globe
-    - title: Cross-device synchronisation
+      icon: elbit-icono-2
+    - title: Bitcoin desde Cero
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: doc-sync
-    - title: Nomad system
+      icon: BDC-icono2
+    - title: Bitcoin en breve
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: mobile-feed
-  section3:
-    title: One platform
-    subtitle: To rule them all
-    image: illustrations/mockups/app-mockup.png
-    buttonText: Get started
-    buttonLink: "#"
+      icon: BeB-icono
+  #section3:
+    #title: One platform
+    #subtitle: To rule them all
+    #image: illustrations/mockups/app-mockup.png
+    #buttonText: Get started
+    #buttonLink: "#"
   section4:
     title: Our Clients love us!
     subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
@@ -182,11 +182,11 @@ params:
       job: HR Manager
       img: 3
   section5:
-    title: Drop us a line or two
-    subtitle: We'd love to hear from you
-    buttonText: Send Message
-    # action: https://formspree.io/f/<form_id>
-    # method: POST
+    title: Escríbenos unas líneas
+    subtitle: Nos encantaría saber de ti
+    buttonText: Enviar Mensaje
+    action: https://formspree.io/f/xjkbkvee
+    method: POST
   footer:
     # Logo (from static/images/logos/___)
     logo: fresh-white-alt.svg
