@@ -147,18 +147,18 @@ params:
       #buttonText: Comprar $0.00
   section2:
     title: Estás aquí porque quieres aprender bitcoin
-    subtitle: Escucha nuestros podcast
+    subtitle: Accede a la mejor información, sencilla, completa y en español.
     features:
-    - title: El Bit
-      text: Resumen semanal de noticias de 5 minutos. Mantente al día y enterate de las noticias más relevantes de la industria bitcoiner. Narradas de forma amena, breve y concisa
+    - title: Conceptos básicos
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       # Icon (from static/images/illustrations/icons/___.svg)
-      icon: elbit-icono-2
-    - title: Bitcoin desde Cero
+      icon: doc-sync
+    - title: Nodos y Seguirdad
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: BDC-icono2
-    - title: Bitcoin en breve
+      icon: laptop-globe
+    - title: Compraventa y Wallets
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: BeB-icono
+      icon: mobile-feed
   #section3:
     #title: One platform
     #subtitle: To rule them all
@@ -166,21 +166,18 @@ params:
     #buttonText: Get started
     #buttonLink: "#"
   section4:
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    title: Disfruta nuestros podcast
+    subtitle: Información, entretenimiento, tutoriales, conversaciones y más.
     clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
-      img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
-      img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
-      img: 3
+    - name: 
+      quote: El Bit. Resumen informativo semanal de 5 minutos. Mantente al día y entérate de las noticias más relevantes de la industria bitcoiner. Narradas de forma amena, breve y concisa.
+      job: Noticias 
+    - name: 
+      quote: Bitcoin desde Cero. Conversaciones con bitcoiners reales que nos cuentan sus experiencias y opiniones. La mejor forma aprendizaje con perspectiva.
+      job: Conversaciones   
+    - name: 
+      quote: Bitcoin en breve. Entretenidos videos cortos, diseñados para facilitar la comprensión y fijar los conocimientos. Nos inspiramos en las notas atómicas de Luhmann.
+      job: Tutoriales y guias 
   section5:
     title: Escríbenos unas líneas
     subtitle: Nos encantaría saber de ti
@@ -189,22 +186,22 @@ params:
     method: POST
   footer:
     # Logo (from static/images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: fondo-naranja-ok.svg
     # Social Media Title
-    socialmediatitle: Follow Us
+    socialmediatitle: Síguenos
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://github.com/StefMa
       # Icons are from Font Awesome
       icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
+    #- link: https://dribbble.com/#
+      #icon: dribbble
     - link: https://facebook.com/#
       icon: facebook
     - link: https://twitter.com/StefMa91
       icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    #- link: https://bitbucket.org/#
+      #icon: bitbucket
     bulmalogo: true
     quicklinks:
       column1:
